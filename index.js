@@ -3,6 +3,11 @@ function add(){
     return (x)
 }
 
+function PASS(){
+  return 11
+}
+
+
 
 
 console.log ("hello world");
