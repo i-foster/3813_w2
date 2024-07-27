@@ -1,4 +1,4 @@
-#3813 week 2 workshop proof of git usage
+# 3813 week 2 workshop proof of git usage
 week 2 tasks for github
 
 to install this project just request and open with your IDE of choice or 
